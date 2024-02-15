@@ -1,0 +1,20 @@
+{
+    "firstName": "Fayaaz",
+    "lastName": "Nabie",
+  "avatar_url": "https://raw.githubusercontent.com/Fayaaz036/WAPS/00a97cea8d741d1f37b9f5eb5c37849556f05413/img/avataraboutme.png",
+    "dateofbirth": "16-05-2001",
+    "city": "Almere",
+    "age" : "22",
+    "openForJobProposals" : true,
+    "pages" : ["Over Mij", "My Skills", "My API"],
+    "bio" : ["Ik ben Fayaaz, 22 jaar oud en afkomstig uit Almere. Momenteel ben ik bezig met de minor Web Design & Development aan de Hogeschool van Amsterdam. In mijn vrije tijd ben ik gepassioneerd bezig met motorrijden, waarbij ik de vrijheid van de open weg omarm. Daarnaast vind ik het heerlijk om te sleutelen aan mijn scooter.",
+             "Tijdens mijn studie heb ik ervaring opgedaan met HTML, CSS en JavaScript. Hoewel ik goed overweg kan met HTML en CSS, vind ik JavaScript nog wat uitdagend. Mijn doel is om mijn kennis van JavaScript te verdiepen, zodat ik nog beter als ontwikkelaar verder kan ontwikkelen.",
+            "Voor de API opdracht heb ik gekozen om alle data uit een JSON FIle te halen. Ik heb een HTML skelet gemaakt, en die ingevuld met de data uit een JSON file die op github staat. "
+    ],
+    "kaartnummer" : "16",
+    "avatars" : ["https://raw.githubusercontent.com/Fayaaz036/WAPS/43ff41b10fab8ae3abe84b97153b840d5eb576ae/img/avataraboutme.png",
+                "https://raw.githubusercontent.com/Fayaaz036/WAPS/43ff41b10fab8ae3abe84b97153b840d5eb576ae/img/avatarskills.png",
+                "https://raw.githubusercontent.com/Fayaaz036/WAPS/43ff41b10fab8ae3abe84b97153b840d5eb576ae/img/avatarmusic.png"
+    ],
+  "turnAroundText" : "Draai je telefoon om verder te gaan :)"
+}
